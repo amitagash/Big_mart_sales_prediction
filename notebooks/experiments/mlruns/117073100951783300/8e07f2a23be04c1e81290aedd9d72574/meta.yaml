@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/8e07f2a23be04c1e81290aedd9d72574/artifacts
+end_time: 1770651410570
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 8e07f2a23be04c1e81290aedd9d72574
+run_name: persistent-wolf-252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651406782
+status: 3
+tags: []
+user_id: amita

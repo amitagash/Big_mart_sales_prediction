@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/be01c6d900e44e1ba307b49c934bf71b/artifacts
+end_time: 1770651417146
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: be01c6d900e44e1ba307b49c934bf71b
+run_name: vaunted-wasp-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651415005
+status: 3
+tags: []
+user_id: amita

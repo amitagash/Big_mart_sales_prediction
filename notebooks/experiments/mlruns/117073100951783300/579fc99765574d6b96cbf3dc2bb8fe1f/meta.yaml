@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/579fc99765574d6b96cbf3dc2bb8fe1f/artifacts
+end_time: 1770651405041
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 579fc99765574d6b96cbf3dc2bb8fe1f
+run_name: redolent-shrike-359
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651403686
+status: 3
+tags: []
+user_id: amita

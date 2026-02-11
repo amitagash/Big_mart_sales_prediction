@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/7cdc2aede29b4ed49e6ab7c48c21667f/artifacts
+end_time: 1770651350956
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 7cdc2aede29b4ed49e6ab7c48c21667f
+run_name: mysterious-bass-635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651347121
+status: 3
+tags: []
+user_id: amita

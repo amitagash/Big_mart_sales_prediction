@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/ce8e381e10184dcfb68c22b818badabf/artifacts
+end_time: 1770651420780
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: ce8e381e10184dcfb68c22b818badabf
+run_name: nebulous-perch-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651417161
+status: 3
+tags: []
+user_id: amita

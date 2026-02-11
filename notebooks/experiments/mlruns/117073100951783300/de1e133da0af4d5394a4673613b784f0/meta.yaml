@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/de1e133da0af4d5394a4673613b784f0/artifacts
+end_time: 1770651383033
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: de1e133da0af4d5394a4673613b784f0
+run_name: incongruous-kit-285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651369358
+status: 3
+tags: []
+user_id: amita

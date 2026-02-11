@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/06ab8a2ecac74df9923eccfaa3e7611a/artifacts
+end_time: 1770651414990
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 06ab8a2ecac74df9923eccfaa3e7611a
+run_name: peaceful-sponge-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651413751
+status: 3
+tags: []
+user_id: amita

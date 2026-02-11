@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/780307746540049375
+creation_time: 1770651671812
+experiment_id: '780307746540049375'
+last_update_time: 1770651671812
+lifecycle_stage: active
+name: BigMart_Sales_GridSearch

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/c1d33e5f8f7f4586bc42065daf65dc93/artifacts
+end_time: 1770651403670
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: c1d33e5f8f7f4586bc42065daf65dc93
+run_name: useful-grouse-375
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651401005
+status: 3
+tags: []
+user_id: amita

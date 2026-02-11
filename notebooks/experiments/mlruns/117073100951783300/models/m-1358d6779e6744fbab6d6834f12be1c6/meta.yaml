@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/models/m-1358d6779e6744fbab6d6834f12be1c6/artifacts
+creation_timestamp: 1770651422072
+experiment_id: '117073100951783300'
+last_updated_timestamp: 1770651433953
+model_id: m-1358d6779e6744fbab6d6834f12be1c6
+model_type: null
+name: model
+source_run_id: c8248e38475a4336b693b5b278924191
+status: 2
+status_message: null

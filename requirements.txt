@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+seaborn
+plotly
+ipykernel
+xgboost
+optuna
+mlflow
+matplotlib
+tensorflow

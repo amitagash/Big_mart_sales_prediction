@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/51e3221a295f4a6c96a00a35e3adb838/artifacts
+end_time: 1770651357004
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 51e3221a295f4a6c96a00a35e3adb838
+run_name: abundant-mare-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651353811
+status: 3
+tags: []
+user_id: amita

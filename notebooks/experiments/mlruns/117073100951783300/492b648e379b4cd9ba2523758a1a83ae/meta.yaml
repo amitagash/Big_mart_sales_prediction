@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/492b648e379b4cd9ba2523758a1a83ae/artifacts
+end_time: 1770651369345
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 492b648e379b4cd9ba2523758a1a83ae
+run_name: melodic-worm-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651368019
+status: 3
+tags: []
+user_id: amita

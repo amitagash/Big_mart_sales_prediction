@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/0c532e24bcf943c69b95d94dd754274d/artifacts
+end_time: 1770651400990
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 0c532e24bcf943c69b95d94dd754274d
+run_name: bittersweet-cub-315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651398989
+status: 3
+tags: []
+user_id: amita

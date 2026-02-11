@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/aa0652ddff4246f090d6d84f1c9893de/artifacts
+end_time: 1770651363573
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: aa0652ddff4246f090d6d84f1c9893de
+run_name: thundering-ox-95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651357018
+status: 3
+tags: []
+user_id: amita

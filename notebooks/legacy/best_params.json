@@ -1,0 +1,10 @@
+{
+    "n_estimators": "369",
+    "scaler": "Robust",
+    "learning_rate": "0.062182727247545255",
+    "max_depth": "3",
+    "colsample_bytree": "0.8468979409273587",
+    "n_jobs": "-1",
+    "subsample": "0.8716328771597028",
+    "random_state": "42"
+}

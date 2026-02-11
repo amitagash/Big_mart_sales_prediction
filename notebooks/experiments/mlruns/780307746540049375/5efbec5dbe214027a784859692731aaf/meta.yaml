@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/780307746540049375/5efbec5dbe214027a784859692731aaf/artifacts
+end_time: 1770651716277
+entry_point_name: ''
+experiment_id: '780307746540049375'
+lifecycle_stage: active
+run_id: 5efbec5dbe214027a784859692731aaf
+run_name: GridSearch_Run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651672540
+status: 3
+tags: []
+user_id: amita

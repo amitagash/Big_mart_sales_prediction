@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/93f861dccd6a43adbe6a04607a7d38d0/artifacts
+end_time: 1770651406766
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: 93f861dccd6a43adbe6a04607a7d38d0
+run_name: rumbling-carp-614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651405058
+status: 3
+tags: []
+user_id: amita

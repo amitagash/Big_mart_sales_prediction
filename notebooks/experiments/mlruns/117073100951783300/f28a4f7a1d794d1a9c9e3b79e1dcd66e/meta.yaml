@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Storage/Smartapps/ABB%20Use%20case/Big_mart_sales_prediction/model_training/mlruns/117073100951783300/f28a4f7a1d794d1a9c9e3b79e1dcd66e/artifacts
+end_time: 1770651353796
+entry_point_name: ''
+experiment_id: '117073100951783300'
+lifecycle_stage: active
+run_id: f28a4f7a1d794d1a9c9e3b79e1dcd66e
+run_name: skillful-pig-214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770651350969
+status: 3
+tags: []
+user_id: amita
